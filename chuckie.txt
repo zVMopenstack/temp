@@ -2,3 +2,4 @@ test file
 
 an update to this file.
 another update after verify flag removed.
+Yet another update after changing /meta/config/project.config
